@@ -20,7 +20,7 @@
    git clone https://github.com/Kitecatik/telegram-bot-notes.git
    ```
    ```
-   cd название-проекта
+   cd telegram-bot-notes
    ```
 
  * Установите зависимости:
